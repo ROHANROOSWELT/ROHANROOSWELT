@@ -141,9 +141,3 @@ Interests:
 </div>
 
 <br>
-
-<div align="center">
-
-### ⚡ BUILD • LEARN • CREATE • INNOVATE ⚡
-
-</div>
