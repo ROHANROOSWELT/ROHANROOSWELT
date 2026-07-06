@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Engineering+AI+Solutions;Exploring+Cloud+Computing;Developing+Blockchain+Systems;Always+Learning+🚀" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=WELCOME&fontColor=FFFFFF&fontSize=45&animation=fadeIn"/>
-
 </div>
 
 ---
