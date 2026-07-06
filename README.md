@@ -43,9 +43,7 @@ Interests:
 
 ```text
 ▸ React
-▸ Next.js
-▸ Node.js
-▸ Express.js
+▸ Django
 ▸ HTML5
 ▸ CSS3
 ▸ JavaScript
@@ -114,83 +112,6 @@ Interests:
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,git,github,aws,vscode"/>
 
 </p>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-### 🛡️ Wardens Protocol
-
-AI-powered decentralized verification platform built on blockchain technology.
-
----
-
-### 🤖 Computer Vision Suite
-
-Object Detection • Face Recognition • Pose Estimation • YOLO • OpenCV • MediaPipe
-
----
-
-### 🎵 AI Music Composer
-
-Generate production-quality music using artificial intelligence.
-
----
-
-### 🌐 Full Stack Applications
-
-Modern web applications built using React, Next.js, Node.js and MongoDB.
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ROHANROOSWELT&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHANROOSWELT&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANROOSWELT&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHANROOSWELT&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ROHANROOSWELT&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🎯 CURRENT OBJECTIVES
-
-- 🚀 Build Production Ready AI Systems
-- ☁️ Master Cloud Computing & DevOps
-- ⛓️ Develop Innovative Blockchain Applications
-- 🌍 Contribute to Open Source Projects
-- 🧠 Explore Advanced Deep Learning Architectures
-- 💼 Build Scalable Full Stack Platforms
-
----
 
 # 🌐 CONNECT WITH ME
 
